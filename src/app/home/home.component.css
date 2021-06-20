@@ -421,6 +421,7 @@ p.main-container {
 	align-items: center;
 	height: 20vw;
 	margin-top: -7vw;
+	margin-bottom: -5vw;
 }
 
 .button {
@@ -433,12 +434,13 @@ p.main-container {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-weight: bold;
 	font-style: italic;
-	padding: 20px;
 	transition: all 0.5s;
 	cursor: pointer;
 	margin: 5px;
 	width: 20vw;
 	height: 8vw;
+	margin-top: -15vw;
+	margin-bottom: -15vw;
 }
 
 .button:hover {
