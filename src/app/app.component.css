@@ -152,7 +152,7 @@ p.main-container {
 .social-btns:hover {
 	transform: scale(1.5);
 	z-index: 1;
-	box-shadow: 0px 0px 30px 20px rgba(48, 48, 48, 0.365);
+	box-shadow: 0px 0px 30px 20px rgba(101, 101, 101, 0.83);
 }
 
 .credits {
@@ -160,7 +160,7 @@ p.main-container {
 	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 20px;
 	font-style: italic;
-	margin-top: 100px;
+	margin-top: 105px;
 	margin-bottom: 30px;
 }
 
